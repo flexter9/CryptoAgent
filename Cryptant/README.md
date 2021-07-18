@@ -136,8 +136,8 @@ Get AI 🤖 Advice for any cryptocurrency: `/getPrediction/<coin>` <br />
 ![Image](https://media.giphy.com/media/RZJ0Ew7WQaP6Xhk4mo/giphy.gif)
 
 ----
-If you liked my (Just for fun#4278) website, kindly do me a favour by voting me in this Codejam 😄.<br />
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)**
+
+
 
 
 ## Want to host it yourself?
@@ -147,5 +147,5 @@ If you liked my (Just for fun#4278) website, kindly do me a favour by voting me 
 4. Open `index.html` and done.
 5. Host it using `nginx` if you want it to be hosted on a domain
 
-If you liked my (Just for fun#4278) website, kindly do me a favour by voting me in this Codejam 😄.<br />
+
 
