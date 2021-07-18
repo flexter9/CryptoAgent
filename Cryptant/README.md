@@ -1,7 +1,6 @@
 # [Cryptant](https://cryptant.my.to/)
 ## Your Digital Crypto Assistant
 
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)** <br />
 
 A website which provides users free assistance on how to invest and earn from Cryptocurrencies.
 
@@ -149,4 +148,4 @@ If you liked my (Just for fun#4278) website, kindly do me a favour by voting me 
 5. Host it using `nginx` if you want it to be hosted on a domain
 
 If you liked my (Just for fun#4278) website, kindly do me a favour by voting me in this Codejam 😄.<br />
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)**
+
