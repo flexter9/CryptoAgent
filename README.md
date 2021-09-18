@@ -5,7 +5,6 @@
 
 A website which provides users free assistance on how to invest and earn from Cryptocurrencies.
 
-This is Just for fun#4278 's submission for Timathon 2021 (Jan-Feb)
 
 Presenting, **Cryptant** which provides high quality advice for free to people around the globe to make them learn how to invest and earn from cryptocurrencies.
 
